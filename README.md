@@ -27,7 +27,7 @@ Outside of development, I enjoy writing, sketching, and contributing to the open
 </tr>
 </table>
 
-<h1 align="left">Tech Stack</h1>
+<h1 align="left">Technologies I Work With</h1>
 
 <div align="center">
   

@@ -70,7 +70,7 @@ Outside of development, I enjoy writing, sketching, and contributing to the open
 </div>
 
 <br>
-<h1 align="left">📈 GitHub Stats</h1>
+<h1 align="left">GitHub Stats</h1>
 
 <!-- Streak -->
 <p align="center">

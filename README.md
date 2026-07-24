@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E4488,50:E05C82,100:F57D64&height=220&section=header&text=Hi%20There,%20I'm%20Vaishnavi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Hi%20there,%20I'm%20Vaishnavi&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=D9648C&center=true&vCenter=true&width=600&lines=AI+Research+Enthusiast;Full-Stack+Developer;Building+Responsible+AI+Systems" alt="Typing SVG" />
 
@@ -103,5 +103,5 @@ Outside of development, I enjoy writing, sketching, and contributing to the open
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
 </div>

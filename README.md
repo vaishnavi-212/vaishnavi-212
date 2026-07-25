@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Hi%20there,%20I'm%20Vaishnavi&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E4488,50:E05C82,100:F57D64&height=220&section=header&text=Hi%20There,%20I'm%20Vaishnavi%20&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=D9648C&center=true&vCenter=true&width=600&lines=AI+Research+Enthusiast;Full-Stack+Developer;Building+Responsible+AI+Systems" alt="Typing SVG" />
 
@@ -73,9 +73,7 @@ Outside of development, I enjoy writing, sketching, and contributing to the open
 <h1 align="left">GitHub Stats</h1>
 
 <!-- Streak -->
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=vaishnavi-212&hide_border=true&background=0D1117&ring=E05C82&fire=F57D64&currStreakLabel=E05C82&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=8B8B8B"/>
-</p>
+<img width="65%" src="https://streak-stats.demolab.com?user=vaishnavi-212&hide_border=true&background=0D1117&ring=E05C82&fire=F57D64&currStreakLabel=E05C82&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=8B8B8B&cache_seconds=1800"/>
 
 <br>
 
@@ -103,5 +101,6 @@ Outside of development, I enjoy writing, sketching, and contributing to the open
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E4488,50:E05C82,100:F57D64&height=150&section=footer" />
+
 </div>

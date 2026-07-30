@@ -89,6 +89,15 @@ Outside of development, I enjoy writing, sketching, and contributing to the open
   <img src="https://komarev.com/ghpvc/?username=vaishnavi-212&label=Profile%20Views&color=E05C82&style=for-the-badge"/>
 </p>
 
+<h1 align="left">Badges</h1>
+
+<p align="center">
+  <img src="Google%20solution%20badge.png" width="140"/>
+  <img src="GSSOC%20contributer%20AI%20tracks.png" width="140"/>
+  <img src="GSSOC%20contributer%20Open%20source%20tracks.png" width="140"/>
+  <img src="GSSOC%20contributer.png" width="140"/>
+</p>
+
 <h1 align="left">🤝 Let's Connect</h1>
 
 <p align="center">
@@ -100,6 +109,8 @@ Outside of development, I enjoy writing, sketching, and contributing to the open
     <img src="https://img.shields.io/badge/Gmail-Say%20Hello-F57D64?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9E4488,50:E05C82,100:F57D64&height=150&section=footer" />
 
